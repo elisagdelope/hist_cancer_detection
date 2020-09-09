@@ -6,7 +6,7 @@ The accuracy is far from good (also limited by resources: no GPU available), but
 I think it is clear and easy to follow for deep-learning beginners.
 
 
-##IMPORTANT:
+#IMPORTANT:
 Images in training and test set must be located in subdirectories: one subdirectory ("images") in test directory and as many subdirectories as classes in training directory. 
 The training images matching a specific class must be located in the corresponding folder.
 In this project there are 2 classes (binary classification problem) and the structure in data directory was the following:
